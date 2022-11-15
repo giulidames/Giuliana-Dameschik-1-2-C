@@ -1,0 +1,54 @@
+body{
+    font-family: 'Inter', sans-serif;
+}
+
+#color-fondo{
+    background-color: #5E3922 !important;
+}
+
+header.fondo {
+    padding-top: 10.5rem;
+    padding-bottom: 15rem;
+    text-align: center;
+    color: #fff;
+    background-image: url("img/head.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+}
+
+h1{
+    font-family: 'Inter', sans-serif;
+    font-weight: 800 !important;
+}
+
+.subtitulos{
+    font-family: 'Inter italic', sans-serif;
+}
+
+#descubrir{
+    background-color: #5E3922 !important;
+}
+
+footer{
+    background-color: #5E3922;
+    font-family: 'inter light';
+}
+
+header.fondonosotros{
+
+    padding-top: 10.5rem;
+    padding-bottom: 7rem;
+    text-align: center;
+    color: #fff;
+    background-image: url("img/head.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+}
+
+#sobrenosotros{
+    font-size:large;
+}
